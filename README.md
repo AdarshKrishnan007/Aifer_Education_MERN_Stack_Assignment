@@ -27,12 +27,12 @@ A simple and secure **Task Manager App** built with the **MERN stack** that allo
 ##  Setup Instructions
 
 ###  Clone the Repository
-    ```bash
-    git clone https://github.com/your-username/Aifer_Education_MERN_Stack_Assignment.git
+    
+    git clone https://github.com/AdarshKrishnan007/Aifer_Education_MERN_Stack_Assignment.git
     cd Aifer_Education_MERN_Stack_Assignment
 
 ###  Backend Setup
-    ```bash
+    
     cd backend
     npm install
 
@@ -47,7 +47,7 @@ A simple and secure **Task Manager App** built with the **MERN stack** that allo
 Your backend runs on http://localhost:5000
 
 ###  Frontend Setup
-    ```bash
+    `
       cd frontend
       npm install
 
