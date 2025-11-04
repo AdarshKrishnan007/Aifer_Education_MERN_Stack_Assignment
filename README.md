@@ -47,7 +47,7 @@ A simple and secure **Task Manager App** built with the **MERN stack** that allo
 Your backend runs on http://localhost:5000
 
 ###  Frontend Setup
-    `
+    
       cd frontend
       npm install
 
@@ -61,13 +61,13 @@ Your frontend runs on http://localhost:3000
 
 ###  Author
   
-    Adarshkrishnan P
+  Adarshkrishnan P
     
-     Email: adarshkrishnanpalayil@gmail.com
+  Email: adarshkrishnanpalayil@gmail.com
     
-     GitHub: https://github.com/AdarshKrishnan007
+  GitHub: https://github.com/AdarshKrishnan007
     
-     LinkedIn: https://www.linkedin.com/in/adarshkrishnanp/
+  LinkedIn: https://www.linkedin.com/in/adarshkrishnanp/
 
 
 
